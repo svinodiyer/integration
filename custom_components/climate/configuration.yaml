@@ -1,0 +1,5 @@
+climate:
+  - platform: midea
+    app_key: 3742e9e5842d4ad59c2db887e12449f9
+    username: 'foo@bar.com'
+    password: !secret midea_password
